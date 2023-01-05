@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AlertDialog
-import com.example.open_attestation_android_example.R
+import com.openattestation.open_attestation_android_example.R
 import com.openattestation.open_attestation_android.OaRendererActivity
 import com.openattestation.open_attestation_android.OpenAttestation
 
