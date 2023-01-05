@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "open-attestation-android-example"
-include ':app'
+include ':open-attestation-example'
 include ':open-attestation-android'
