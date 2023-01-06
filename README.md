@@ -37,7 +37,7 @@ To run the example project, open the project with Android Studio and run the `op
 ## Installation
 
 open-attestation-android library is available through [JitPack](https://jitpack.io/). To install
-it, follow these steps.
+it, follow these steps:
 
 ### Add the JitPack repository
 
@@ -77,15 +77,15 @@ Example: `com.github.Open-Attestation:open-attestation-android:1.0.0`
 In AndroidManifest.xml:
 ```ruby
 <application
-        ...
-        <activity
-            android:name="com.openattestation.open_attestation_android.OaRendererActivity"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-    </application>
+    ...
+    <activity
+        android:name="com.openattestation.open_attestation_android.OaRendererActivity"
+        android:exported="false">
+        <meta-data
+            android:name="android.app.lib_name"
+            android:value="" />
+    </activity>
+</application>
 ```
 
 ## Sample App
