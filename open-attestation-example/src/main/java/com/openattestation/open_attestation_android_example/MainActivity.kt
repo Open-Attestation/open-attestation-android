@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val filename = "national-youth-council_obs-moc.oa"
+        val filename = "sample.oa"
         val document = application.assets.open(filename).bufferedReader().use{
             it.readText()
         }
