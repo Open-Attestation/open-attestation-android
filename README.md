@@ -1,5 +1,5 @@
 # open-attestation-android
-The open-attestation-android library allows Android app developers to build apps that can verify and view OpenAttestation documents
+The open-attestation-android library allows Android app developers to build apps that can verify and view [OpenAttestation](https://www.openattestation.com/) documents
 
 ## Usage
 ### verifyDocument
