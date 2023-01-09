@@ -71,7 +71,7 @@ dependencies {
 }
 ```
 You can find available versions on https://github.com/Open-Attestation/open-attestation-android/releases
-Example: `com.github.Open-Attestation:open-attestation-android:1.0.0`
+Example: `com.github.Open-Attestation:open-attestation-android:1.0.0-beta`
 
 ### Add OaRendererActivity to your app manifest
 In AndroidManifest.xml:
