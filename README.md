@@ -25,8 +25,8 @@ The open-attestation-android library allows Android app developers to build apps
     ...
     
     val intent = Intent(this, OaRendererActivity::class.java)
-    intent.putExtra(OaRendererActivity.OA_DOCUMENT_KEY, document)
-    intent.putExtra(OaRendererActivity.OA_DOCUMENT_FILENAME_KEY, filename)
+    intent.putExtra(OaRendererActivity.OA_DOCUMENT_KEY, "<DOCUMENT CONTENT>")
+    intent.putExtra(OaRendererActivity.OA_DOCUMENT_FILENAME_KEY, "<DOCUMENT NAME>")
     startActivity(intent)
 ```
 
