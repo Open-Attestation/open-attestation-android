@@ -18,7 +18,7 @@ The open-attestation-android library allows Android app developers to build apps
     }
 ```
 ### OaRendererActivity
-`OaRendererActivity` is an Activity that takes a wrapped document and renders the document template if the provided document is valid.
+`OaRendererActivity` is an Activity that takes a wrapped document and renders the document template.
 ```
     import com.openattestation.open_attestation_android.OaRendererActivity
     
